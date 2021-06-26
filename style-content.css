@@ -1,0 +1,218 @@
+#egipcia1{
+    position: static;
+    width: 550px;
+    margin: 5px 20px;
+    padding: 1px 20px;
+    border-radius: 3%;
+    background-color: #fece60;
+}
+
+#egipcia2{
+    text-align: left;
+    font-family: "Roboto";
+    font-size: large;
+    padding: 5px 8px 0px 8px;
+}
+
+#imgegi1{
+    position: absolute;
+    top: 55px;
+    left: 775px;
+    height: 300px;
+    width: 450px;
+    display:block;
+}
+
+#imgegi2{    
+    position: absolute;
+    top: 400px;
+    left: 775px;
+    height: 300px;
+    width: 450px;
+    display:block;
+}
+
+#imgegi3{
+    position: absolute;
+    top: 745px;
+    left: 775px;
+    height: 300px;
+    width: 450px;
+    display:block;
+}
+
+#egivid{
+    position: absolute;
+    padding: 30px;
+    width: 695px; 
+    height: 400px;
+    left: 310px;
+}
+
+.button1{
+    text-align: center;
+    display: block;
+    position: absolute;
+    left: 480px;
+    bottom: -1100px;
+    width: 310px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0px 40px;
+    background-color: #FFD412;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #FAFFD8;
+    text-decoration: none;
+}
+
+a.button1:hover:not(.active){
+    background-color: #ba9b11;
+}
+
+#grega1{
+    position: static;
+    width: 550px;
+    margin: 5px 20px;
+    padding: 1px 20px;
+    border-radius: 3%;
+    background-color: #138AC8;
+}
+
+#grega2{
+    text-align: left;
+    font-family: "Roboto";
+    font-size: large;
+    padding: 5px 8px 0px 8px;
+}
+
+#imggre1{
+    position: absolute;
+    top: 55px;
+    left: 775px;
+    height: 300px;
+    width: 450px;
+    display:block;
+}
+
+#imggre2{
+    position: absolute;
+    top: 400px;
+    left: 775px;
+    height: 300px;
+    width: 450px;
+    display:block;
+}
+
+#imggre3{
+    position: absolute;
+    top: 745px;
+    left: 830px;
+    height: 500px;
+    width: 350px;
+    display:block;
+}
+
+#grevid{
+    position: absolute;
+    padding: 30px;
+    width: 695px; 
+    height: 400px;
+    left: 310px;
+}
+
+.button2{
+    text-align: center;
+    display: block;
+    position: absolute;
+    left: 480px;
+    bottom: -1340px;
+    width: 310px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0px 40px;
+    background-color: #002085;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #D9D8FF;
+    text-decoration: none;
+}
+
+a.button2:hover:not(.active){
+    background-color: #121e41;
+}
+
+#nordica1{
+    position: static;
+    width: 550px;
+    margin: 5px 20px;
+    padding: 1px 20px;
+    border-radius: 3%;
+    background-color: #007852;
+}
+
+#nordica2{
+    text-align: left;
+    font-family: "Roboto";
+    font-size: large;
+    padding: 5px 8px 0px 8px;
+}
+
+#imgnor1{
+    position: absolute;
+    top: 55px;
+    left: 865px;
+    height: 300px;
+    width: 255px;
+    display:block;
+}
+
+#imgnor2{
+    position: absolute;
+    top: 400px;
+    left: 845px;
+    height: 300px;
+    width: 300px;
+    display:block;
+}
+
+#imgnor3{
+    position: absolute;
+    top: 745px;
+    left: 775px;
+    height: 300px;
+    width: 450px;
+    display:block;
+}
+
+#norvid{
+    position: absolute;
+    padding: 30px;
+    width: 695px; 
+    height: 400px;
+    left: 310px;
+}
+
+.button3{
+    text-align: center;
+    display: block;
+    position: absolute;
+    left: 480px;
+    bottom: -975px;
+    width: 310px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0px 40px;
+    background-color: #005c0f;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #DFFFDC;
+    text-decoration: none;
+}
+
+a.button3:hover:not(.active){
+    background-color: #123217;
+}
